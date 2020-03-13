@@ -26,3 +26,9 @@ steps:
   inputs:
     testRunner: JUnit
     testResultsFiles: '**/test-results.xml'
+
+- task: WhiteSource Bolt@20
+  inputs:
+    cwd: '.'
+    advance: true
+    exclude: './node_modules'
