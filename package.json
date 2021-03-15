@@ -27,7 +27,7 @@
     "expect.js": "~0.3.1",
     "htmlparser2": "^4.1.0",
     "lodash": "^4.17.11",
-    "mocha": "^7.1.0",
+    "mocha": "^8.3.2",
     "mocha-junit-reporter": "^1.23.3",
     "xyz": "^4.0.0"
   },
